@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Betsy Arinze
-- 👀 I’m interested in android and video game development
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in web development
+- 🌱 I’m currently improving my web development skills
 - 📫 How to reach me: betarinze@gmail.com
 
 <!---
